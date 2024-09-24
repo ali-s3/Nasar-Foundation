@@ -217,6 +217,7 @@ button {
 }
 
 .layout_padding {
+    margin-top: 80px;
     padding-top: 90px;
     padding-bottom: 0px;
 }
